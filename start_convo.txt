@@ -1,0 +1,6 @@
+Hi, Ron! This is from Chrono.
+We have decoded a file from 2051, it looks like a manual for dealing with the climate change. 
+But we are not that good at this decoding .... some important details seem to be lost. 
+You know, it's getting hotter and hotter these days.
+We need your help!
+    * Yes, of course. I'm ready to be sent to 2051 to figure out what's going on there. (self.parent.resp = True)
